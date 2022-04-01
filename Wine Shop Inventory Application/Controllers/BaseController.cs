@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using Wine_Shop_Inventory_Application.DAL;
 using Wine_Shop_Inventory_Application.Models;
 
 namespace Wine_Shop_Inventory_Application.Controllers
